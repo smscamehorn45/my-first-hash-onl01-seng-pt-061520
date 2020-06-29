@@ -42,8 +42,15 @@ shipping_manifest["muskets"] = 2
 
   # add 4 gun powder to the shipping_manifest hash below
 
+<<<<<<< HEAD
 shipping_manifest["gun powder"] = 4
 
   # return the shipping_manifest hash below
  shipping_manifest
+=======
+shipping_manifest["gun poweder"] = 4
+
+  # return the shipping_manifest hash below
+puts shipping_manifest
+>>>>>>> 26d47540a063d7c89eb66a592911fdc2aa2b8701
 end
